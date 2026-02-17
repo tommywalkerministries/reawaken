@@ -9,7 +9,6 @@
 
 
 {comment: Verse}
-{start_of_verse}
 [E]Turn your [B7]eyes upon [A]Je-[E/G#]sus 
 Look [A]full in His [C#7aug]wonderful [F#m7]face    [B7] 
 And the [Bm/D]things of [C#7]earth will grow [F#m7]strangely [Am/C]dim 
@@ -21,14 +20,11 @@ And the [Bm/D]things of [C#7]earth will grow [F#m7]strangely [Am/C]dim
 {end_of_verse}
 
 {comment: Tag}
-{start_of_chorus}
 In the [E/B]light of His [A/C#]glory 
 [E/B]Light of His [Am6]beauty
 [E/B]Light of His [F#m7]glor- -[B7sus]y    and [E]grace[Esus] [E]  [E] 
-{end_of_chorus}
 
 {comment: Vamp/Instrumental}
-{start_of_bridge}
 We want to see [Am9/C]nothing else but Your [G/B]glory, Lord
 We want to see [Am9/C]nothing else but your [G/B]face   [Em7] 
 And as we [Dsus]fix our [D]eyes[D#dim]    on Your [C/E]majest-[G/D]y and [C]grace[G/B]
@@ -36,7 +32,6 @@ All dis-[Am9]tractions and [D7sus]fears fade a-[G]way
 {end_of_bridge}
 
 {comment: Final Verse}
-{start_of_verse}
 [E]Turn your [B7]eyes upon [A]Je-[E/G#]sus 
 Look [A]full in His [C#7aug]wonderful [F#m7]face    [B7] 
 And the [Bm/D]things of [C#7]earth will grow [F#m7]strangely [Am/C]dim 
