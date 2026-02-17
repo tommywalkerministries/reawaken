@@ -5,7 +5,7 @@
 {time: 4/4}
 {capo: 0}
 {ccli: 7269270}
-{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/ }
 
 {start_of_verse}
 I’m gonna [Am7]thank my way back to Your joy
