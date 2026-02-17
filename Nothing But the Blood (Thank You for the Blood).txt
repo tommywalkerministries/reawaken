@@ -11,21 +11,20 @@
 [F] [F7/A] [Bb] [C7sus]
 {comment: Repeat Intro}
 
-{start_of_verse}
+{start_of_verse 1}
 [F]What can [Gm7]wash a-[F/A]way my [Bbm6]sin
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-
 [F]What can [Gm7]make me [F/A]whole a-[Bbm6]gain
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-{end_of_verse}
-{start_of_verse}
+{end_of_verse2}
+
+{start_of_verse 2}
 [F]For my [Gm7]pardon [F/A]this I [Bbm6]see
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-
 [F]For my [Gm7]cleansing, [F/A]this my [Bbm6]plea
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus]
-{end_of_verse}
+{end_of_verse2}
 
 {start_of_chorus}
 {comment: Chorus 1}
