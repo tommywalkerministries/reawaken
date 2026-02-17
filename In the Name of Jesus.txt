@@ -1,4 +1,4 @@
-{title: In The Name Of Jesus}
+{title: In the Name of Jesus}
 {artist: Tommy Walker}
 {key: C}
 {tempo: 63}
