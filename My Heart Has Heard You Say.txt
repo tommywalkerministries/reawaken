@@ -22,10 +22,10 @@ Lord, I’m [D4]co[D]ming, [D4]here I [D]am
 I’m re[Bm7]turning, here I stand
 Just to [G2]live in Your house and [A4]be where You are
 This is [G2]my one delight, my [A4]deepest desire
-{end_of_chorus}
 
-{comment: Tag}
+{comment: TAG}
 Here I [D]am, here I [G]am
+{end_of_chorus}
 
 {start_of_verse}
 My [D]heart has [D2]heard You [D]say, I’m [Bm7]calling [Bm11]you [Bm7]away
