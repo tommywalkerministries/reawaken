@@ -9,48 +9,49 @@
 
 {start_of_verse}
 My [D]heart has [D2]heard You [D]say, I’m [Bm7]calling [Bm11]you [Bm7]away
-[Bm7]Come [D/F#]and [G]talk with me    [G]    [D/F#]   [G]
-come and [A4]be [A]with [A]me    [A4]  [A]    [A4]
+[Bm7]Come [D/F#]and [G]talk with me [G] [D/F#] [G]
+come and [A4]be [A]with [A]me [A4] [A] [A4]
 
-I’m [D]hearing [D2]with my [D]soul, like You [Bm7]spoke in [Bm11]days of [Bm7]old 
-[Bm7]Steal [D/F#]a[G]way with me    [G]    [D/F#]   [G]
-and then [A4]I [A]will [A]say     [A4]  [A]    [A4]
+I’m [D]hearing [D2]with my [D]soul, like You [Bm7]spoke in [Bm11]days of [Bm7]old
+[Bm7]Steal [D/F#]a[G]way with me [G] [D/F#] [G]
+and then [A4]I [A]will [A]say [A4] [A] [A4]
 {end_of_verse}
 
 {start_of_chorus}
 Lord, I’m [D4]co[D]ming, [D4]here I [D]am
-I’m re[Bm7]turning, here I stand 
-Just to [G2]live in Your house and [A4]be where You are 
-This is [G2]my one delight, my [A4]deepest desire 
+I’m re[Bm7]turning, here I stand
+Just to [G2]live in Your house and [A4]be where You are
+This is [G2]my one delight, my [A4]deepest desire
 {end_of_chorus}
-{comment: Chorus}
-TAG
+
+{comment: Tag}
 Here I [D]am, here I [G]am
 
 {start_of_verse}
 My [D]heart has [D2]heard You [D]say, I’m [Bm7]calling [Bm11]you [Bm7]away
-[Bm7]Come [D/F#]and [G]talk with me    [G]    [D/F#]   [G]
-come and [A4]be [A]with [A]me    [A4]  [A]    [A4]
+[Bm7]Come [D/F#]and [G]talk with me [G] [D/F#] [G]
+come and [A4]be [A]with [A]me [A4] [A] [A4]
 
-I’m [D]hearing [D2]with my [D]soul, like You [Bm7]spoke in [Bm11]days of [Bm7]old 
-[Bm7]Steal [D/F#]a[G]way with me    [G]    [D/F#]   [G]
-and then [A4]I [A]will [A]say     [A4]  [A]    [A4]
+I’m [D]hearing [D2]with my [D]soul, like You [Bm7]spoke in [Bm11]days of [Bm7]old
+[Bm7]Steal [D/F#]a[G]way with me [G] [D/F#] [G]
+and then [A4]I [A]will [A]say [A4] [A] [A4]
 {end_of_verse}
 
 {start_of_chorus}
 Lord, I’m [D4]co[D]ming, [D4]here I [D]am
-I’m re[Bm7]turning, here I stand 
-Just to [G2]live in Your house and [A4]be where You are 
-This is [G2]my one delight, my [A4]deepest desire 
+I’m re[Bm7]turning, here I stand
+Just to [G2]live in Your house and [A4]be where You are
+This is [G2]my one delight, my [A4]deepest desire
 Here I [D]am, here I [G]am, Here I [D]am, here I [G]am
 {end_of_chorus}
 
 {start_of_bridge}
 Here I [D]am, here I [G]am, Here I [D]am, here I [G]am
 
-Here in Your presence,[D] seeing Your beauty,[G] sensing Your nearness,[D] tasting Your goodness [G]
+Here in Your presence, [D]seeing Your beauty, [G]sensing Your nearness,
+[D]tasting Your goodness [G]
 {end_of_bridge}
 
-ENDING
+{comment: Ending}
 Here I [D]am, here I [G]am, Here I [D]am, here I [G]stand
 Here I [D]am
