@@ -22,7 +22,6 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]re[Am7]ceive
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C]
 {end_of_verse}
 
-
 {start_of_chorus}
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
 [Em7]Master, [F]Savior, [G]our Lord, come and [Csus]touch us as we [C]pray [C/G] [G]
@@ -32,7 +31,6 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]re[Am7]ceive
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve  
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C] [Csus] [C]
 {end_of_verse}
-
 
 {start_of_bridge}
 [F]There is nothing too hard for our God
@@ -59,7 +57,6 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
 [Em7]Master, [F]Savior, [G]our Lord, come and [Csus]touch us as we [C]pray [C/G] [G]
 {end_of_chorus}
-
 
 {start_of_verse}
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]Christ [G]our [C]King  
