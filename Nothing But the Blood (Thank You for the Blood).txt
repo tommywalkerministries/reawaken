@@ -11,58 +11,50 @@
 [F] [F7/A] [Bb] [C7sus]
 {comment: Repeat Intro}
 
-{start_of_verse 1}
+{comment: Verse 1}
 [F]What can [Gm7]wash a-[F/A]way my [Bbm6]sin
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F]What can [Gm7]make me [F/A]whole a-[Bbm6]gain
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-{end_of_verse2}
 
-{start_of_verse 2}
+{comment: Verse 2}
 [F]For my [Gm7]pardon [F/A]this I [Bbm6]see
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F]For my [Gm7]cleansing, [F/A]this my [Bbm6]plea
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus]
-{end_of_verse2}
 
-{start_of_chorus}
+
 {comment: Chorus 1}
 [F/A]O! Precious is the flow
 That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
-
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus] [F] [F7/A] [Bb] [C7sus]
 {end_of_chorus}
 
-{start_of_verse}
+{comment: Verse 3}
 [F]Nothing [Gm7]can for [F/A]sin [Bbm6]atone
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-
 [F]Naught of [Gm7]good that [F/A]I have [Bbm6]done
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 
+{comment: Verse 4}
 [F]This is [Gm7]all my [F/A]hope and [Bbm6]peace
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-
 [F]This is [Gm7]all my [F/A]righteous-[Bbm6]ness
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus]
-{end_of_verse}
 
-{start_of_chorus}
 {comment: Chorus 2}
 [F/A]O! Precious is the flow
 That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
-
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 
 {comment: Chorus 3}
 [F/A]O! [C#dim]Precious [Dm7]is the [F#dim]flow
 [Gm7]That [F/A]makes me [A6]white as [Dm7]snow [Dm7/C] [G/B] [Bbm6]
-
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je-sus [C7sus]
 {end_of_chorus}
@@ -73,7 +65,6 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F] [F7/A] [Bb] [C7sus]
 [F] [F7/A] [Bb] [C7sus]
 
-{start_of_chorus}
 {comment: New Chorus}
 [F]Thank You for the blood that [C]cleanses [C/Bb]me
 [F/A]Thank You for the blood that [Bb]sets me free
@@ -87,7 +78,6 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F] [F7/A] [Bb] [Bdim] [F/C] [C7sus]
 {end_of_chorus}
 
-{start_of_chorus}
 {comment: Final Chorus (Slow)}
 [F/A]O! Precious [Dm7]is the flow
 [Gm7]That [F/A]makes me [Bb6]white as [F/C]snow [C#dim]
