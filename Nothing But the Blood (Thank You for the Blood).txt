@@ -17,7 +17,8 @@
 
 [F]What can [Gm7]make me [F/A]whole a-[Bbm6]gain
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
-
+{end_of_verse}
+{start_of_verse}
 [F]For my [Gm7]pardon [F/A]this I [Bbm6]see
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 
