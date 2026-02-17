@@ -1,0 +1,9 @@
+{title: Sing to God}
+{artist: Tommy Walker}
+{key: G}
+{tempo: 92}
+{time: 4/4}
+{capo: 0}
+{ccli: 7269266}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+
