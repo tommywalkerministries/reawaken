@@ -53,7 +53,7 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve
 [Dm/G]Merciful [F/A]King, He's our [Dm/G]merciful [F]King [A7sus] [A7]
 {end_of_bridge}
 
-{key: D}
+{transpose: +2}
 
 {start_of_chorus}
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
