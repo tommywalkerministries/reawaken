@@ -1,0 +1,56 @@
+{title: Praise His Name Forever}
+{artist: Tommy Walker}
+{key: A}
+{tempo: 119}
+{time: 4/4}
+{capo: 0}
+{ccli: 7269262}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+
+
+{comment: A}
+<b>{CHORUS}</b>
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[G#7]Our fortress and our [C#m7]shield
+[B7/D#]The rock on which we [E]stand [G#7]
+[C#m7]Praise His name for[F#7]ever [A] [E]
+
+{comment: B}
+<b>{CHORUS}</b>
+[Dm7]Praise His name for[G7]ever [Bb] [F]
+[Dm7]Praise His name for[G7]ever [Bb] [F]
+[A7]Our fortress and our [Dm7]shield
+[C7/E]The rock on which we [F]stand [A7]
+[Dm7]Praise His name for[G7]ever [Bb] [F]
+
+{comment: C}
+[D#m7]Praise His name for[G#7]ever [B] [F#]
+[D#m7]Praise His name for[G#7]ever [B] [F#]
+[A#7]Our fortress and our [D#m7]shield
+[C#7/F]The rock on which we [F#]stand [A#7]
+[D#m7]Praise His name for[G#7]ever [B] [F#]
+
+<b>{BRIDGE}</b>
+[C#7]All of His ways [F#/C#]are [C#7]marked [F#/C#]with [C#7]grace 
+[G#m7]All of His promises are [C#7sus]true [D7sus]
+
+<b>{SOLO}</b>
+[B7] [Em7] [Em7] [A7] [C] [G] [B7] [Em7]
+[D7/F#] [G] [B7] [Em7] [A7] [C] [G]
+
+<b>{CHORUS (1ST TIME: DRUMS ONLY)}</b>
+// [Em7]Praise His name for[A7]ever [C] [G]
+[Em7]Praise His name for[A7]ever [C] [G]
+[B7]Our fortress and our [Em7]shield
+[D7/F#]The rock on which we [G]stand [B7]
+[Em7]Praise His name for[A7]ever [C] [G] [D/F#] //
+
+<b>{VAMP}</b>
+We [Em7]praise [A7]His [C]name [G]
+We [Em7]praise [A7]His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
+
+<i><b>{REPEAT VAMP UNTIL CUE}</b></i>
+
+His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
+His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more 
