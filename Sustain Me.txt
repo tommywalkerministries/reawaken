@@ -1,0 +1,11 @@
+{title: Sustain Me}
+{artist: Tommy Walker & Eileen Ballew}
+{key: }
+{tempo: }
+{time: 4/4}
+{capo: 0}
+{ccli: 7263749}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+
+
+{start_of_verse}
