@@ -1,3 +1,12 @@
+{title: In The Name Of Jesus}
+{artist: Tommy Walker}
+{key: C}
+{tempo: 119}
+{time: 4/4}
+{capo: 0}
+{ccli: 7269262}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]Christ [G]our [C]King  
 We speak [Fmaj7]hea[F6]ling, [C/G]hea[G7sus]ling 
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve  
