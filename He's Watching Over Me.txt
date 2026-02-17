@@ -1,0 +1,11 @@
+{title: He's Watching Over Me}
+{artist: Tommy Walker}
+{key: E}
+{tempo: 108}
+{time: 4/4}
+{capo: 0}
+{ccli: 7269265}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+
+
+{start_of_verse}
