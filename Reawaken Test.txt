@@ -4,6 +4,7 @@
 {tempo: 119}
 {time: 4/4}
 {capo: 0}
+{image: src="https://images.squarespace-cdn.com/content/v1/5a7e26b98a02c7059666b68f/5e0e9fc8-2d9c-4072-93bc-6d0c3d9225fc/TWM+Logo+2023+900x900.png" center="0" scale=5%}
 
 {start_of_verse}
 [F]Reawaken the [Bb/F]wonder of who [F]You are [Bb/F]
