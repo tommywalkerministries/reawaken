@@ -5,7 +5,6 @@
 {time: 4/4}
 {capo: 0}
 
-
 {start_of_verse}
 [F]Reawaken the [Bb/F]wonder of who [F]You are [Bb/F]
 [F]Reawaken that [Bb/F]sense of awe that reminds [Gm7]my [F]heart [C]
@@ -33,6 +32,5 @@ We [Eb]stand amazed as the [Cm7]angels say you are [Bb/F]worthy
 [Eb]Holy and [Cm7]righteous Lord, are [Bb/F]all Your [F]ways
 We [Eb]stand amazed as the [Cm7]angels say you are [Bb/F]worthy, You are [F/C]worthy
 {end_of_bridge}
-
 
 {footer: Words and music by Tommy Walker. © 2025 WeMobile Music. Admin. Music Services. All rights reserved. CCLI #7269262 | tommywalkerministries.org}
