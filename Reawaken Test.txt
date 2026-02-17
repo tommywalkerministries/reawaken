@@ -4,7 +4,8 @@
 {tempo: 119}
 {time: 4/4}
 {capo: 0}
-
+{ccli: 7269262}
+{copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 {start_of_verse}
 [F]Reawaken the [Bb/F]wonder of who [F]You are [Bb/F]
