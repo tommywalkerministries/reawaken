@@ -9,4 +9,3 @@
 
 
 {start_of_verse}
-This is a test to see if the HTML file we'll be sending on the ZIP file works and updates the content!
