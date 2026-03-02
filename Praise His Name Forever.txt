@@ -1,6 +1,6 @@
 {title: Praise His Name Forever}
 {artist: Tommy Walker}
-{key: A}
+{key: E}
 {tempo: 119}
 {time: 4/4}
 {capo: 0}
