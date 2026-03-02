@@ -7,4 +7,70 @@
 {ccli: 7269269}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
+{comment: Intro (as charted)}
+{comment: G – D – G – C – G – C – Em7 – Dsus – C – C – D}
 
+{start_of_verse: Verse 1}
+[G]Lord, let the [G2]morning bring Your new mer[G]cies
+[C]Bring me the [Cmaj7]word of Your un[C6]failing love
+[Em7]Bring me the [Dsus]word of Your un[D/C]failing [C]love
+[Cm/Eb]Bring me the word of Your un[G]failing love
+
+[G]How You have [G2]promised that I’m not for[G]gotten
+[C]But I am [Cmaj7]held here in Your [C6]hand
+[Em7]But I am [Dsus]held here in Your [C]hand [D][G][A9]
+{end_of_verse}
+
+{start_of_bridge: Pre-Chorus}
+[Dsus]I’m re[D]mem[D]bering all of Your [G/B]works
+[C]I’m re[A9]mem[D]bering all You have [G/B]done
+[C]I’m re[G/B]mem-bering all You have done
+
+[Am7]As I’m choosing to [D7sus]trust and be[D7]lieve, hear my des[D7]perate [C/E]plea [D/F#]
+{end_of_bridge}
+
+{start_of_chorus: Chorus}
+[C/G]I need [G]You, I [Dsus]need [D]You, O how I [C/E]need [Em7]You
+[Cmaj7]Speak Your words of [C6]love, [Cmaj7]speak Your words of [C6]life
+[C/G]I’m reaching [G]out, come to me [Dsus]quickly [D]now, O how I [C/E]need [Em7]You
+[C]Lead me to level ground
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[G]Lord, let the [G2]morning bring Your new mer[G]cies
+[C]Bring me the [Cmaj7]word of Your un[C6]failing love
+[Em7]Bring me the [Dsus]word of Your un[D/C]failing [C]love
+[Cm/Eb]Bring me the word of Your un[G]failing love
+
+[G]Though darkness sur[G2]rounds me and fears, they are [G]mounting
+[C]I spread out my [Cmaj7]hands in praise to [C6]Thee
+[Em7]I spread out my [Dsus]hands in praise to [C]Thee [D][G][A9]
+{end_of_verse}
+
+{start_of_bridge: Pre-Chorus (as charted on pg 2)}
+[Dsus]I’m re[D]mem[D]ber-ing all of Your [G/B]works [C][G/B]
+
+[Am7]As I’m choosing to [D7sus]trust and be[D7]lieve, hear my des[D7]perate [C/E]plea [D/F#]
+{end_of_bridge}
+
+{start_of_chorus: Chorus}
+[C/G]I need [G]You, I [Dsus]need [D]You, O how I [C/E]need [Em7]You
+[Cmaj7]Speak Your words of [C6]love, [Cmaj7]speak Your words of [C6]life
+[C/G]I’m reaching [G]out, come to me [Dsus]quickly [D]now, O how I [C/E]need [Em7]You
+[C]Lead me to level ground
+{end_of_chorus}
+
+{start_of_bridge: Vamp}
+[G]I trust You, [D]run to You, [G]hide not Your [C]face from me
+[G]I’m lon-ging, [C]to You I’m cling-ing, [Em7]Lord, I hide my[Dsus]self in [C][C][D]Thee
+
+[G]I trust You, [D]run to You, [G]hide not Your [C]face from me
+[G]I’m lon-ging, [C]to You I’m cling-ing, [Em7]Lord, I hide my[Dsus]self in [C][D]Thee
+
+[Em7]Lord, I hide my[Bm7]self in [C]Thee
+{end_of_bridge}
+
+{start_of_verse: Ending Verse}
+[G]Lord, let the [G2]morning bring Your new mer[G]cies
+[C]Bring me the [Cmaj7]word of Your un[C6]failing love
+{end_of_verse}
