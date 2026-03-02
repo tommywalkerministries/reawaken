@@ -14,10 +14,10 @@
 [B/D#]Nor the moon by [E]night
 {end_of_verse}
 
-{start_of_prechorus}
+{start_of_pre-chorus}
 My [A]help comes [B]from the [C#m7]Lord 
 The [B]ma-[E/G#]ker [B]of [C#m7]Hea - [B]ven [C#m7]and [A]earth   
-{end_of_prechorus}
+{end_of_pre-chorus}
 
 {start_of_chorus}
 He's watching[E], He's watching[F#m7], He's wa[E/G#]tching over [A]me
