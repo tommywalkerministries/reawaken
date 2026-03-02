@@ -51,15 +51,14 @@ He's watching[E], He's watching[F#m7], pro[tecting[E/G#], He's [A6]watching over
 [E]Oh [F#m7]- , what [E/G#]joy this [A]brings just to [E]know [F#m7]- I'm [E/G#]loved and [A]seen
 {end_of_bridge}
 
-{comment: Chorus (repeat)}
 {start_of_chorus}
-[E]He's watching, He's [F#m7]watching, He's [E/G#]watching over [A]me
-[E]He's watching, pro[F#m7]tecting, His [E/G#]eyes are set on [A]me
-[E]In my coming and my [F#m7]going, in this [E/G#]moment, even [A6]now and forever
-[E]He's watching, He's [F#m7]watching, pro[E/G#]tecting, He's [A6]wat-ching over [E]me
+He's watching[E], He's watching[F#m7], He's wa[E/G#]tching over [A]me
+He's watching[E], protecting[F#m7], His e[E/G#]yes are set on [A]me
+In my comin[E]g and my going[F#m7], in this moment[E/G#], even [A6]now and forever
+He's watching[E], He's watching[F#m7], pro[tecting[E/G#], He's [A6]watching over [E]me [F#m7] [E/G#] [A]
 {end_of_chorus}
 
 {comment: Outro (repeat till cue)}
 {start_of_outro}
-[E]He's wat-ching over [F#m7]me [E/G#] [A]
+[E] [F#m7] [E/G#]He's wat[A]-ching over [E]me
 {end_of_outro}
