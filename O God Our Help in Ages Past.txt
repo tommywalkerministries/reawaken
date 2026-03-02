@@ -6,3 +6,61 @@
 {capo: 0}
 {ccli: 2335500}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
+
+{comment: Intro}
+[G] [Am/G] [C/G] [G] [Am/G] [G] [C/G] [D/G] [G] [Am/G] [C/G] [G] [Am/G] [C/G] [Cadd2/G]
+{comment: (repeat)}
+
+{start_of_verse: Verse 1}
+[G]O God, our [D]Help in ages [C]past [G]
+[Em7]Our Hope for [A7]years to [Dsus][D]come
+[Em7]Our shelter [D]from the stormy [C]blast [G]
+[C]And our e[Dsus]ternal home
+
+[G]Under the [D]shadow of Thy [C]throne [G]
+[Em7]Still may we [A7]dwell se[Dsus][D]cure
+[Em7]Sufficient [D]is Thine arm a[C]lone [G]
+[C]And our de[Dsus][G][C/G][G]fense is sure
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[D]O God You [C]are, You are our [G]help, You are our [C/G][G][C/G][G]helper
+[D]To all gener[C]ations You will [G]be, fore[C/G][G][C/G][G]ver and ever
+[D]Our shield and [C]our eternal [G]hope, oh [D/F#][Em7]Lord
+[C]You are the [Dsus]Ancient of Days and worthy of our praise
+{end_of_chorus}
+
+{comment: Intro}
+[G] [Am/G] [C/G] [G] [Am/G] [G] [C/G] [D/G] [G] [Am/G] [C/G] [G] [Am/G] [C/G] [Cadd2/G]
+
+{start_of_verse: Verse 2}
+[G]Before the [D]hills in order [C]stood [G]
+[Em7]Or earth re[A7]ceived her [Dsus][D]frame
+[Em7]From ever[D]lasting Thou art [C]God [G]
+[C]To endless [Dsus]years the same
+
+[G]O God, our [D]Help in ages [C]past [G]
+[Em7]Our Hope for [A7]years to [Dsus][D]come
+[Em7]Be Thou our [D]guard while troubles [C]last [G]
+[C]And our e[Dsus][G][C/G][G]ternal home
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[D]O God You [C]are, You are our [G]help, You are our [C/G][G][C/G][G]helper
+[D]To all gener[C]ations You will [G]be, fore[C/G][G][C/G][G]ver and ever
+[D]Our shield and [C]our eternal [G]hope, oh [D/F#][Em7]Lord
+[C]You are the [Dsus][G][C/G][G]Ancient of Days and worthy of our praise
+{comment: (repeat chorus if desired)}
+{end_of_chorus}
+
+{start_of_bridge: Ending}
+[C]You are the [Dsus][G][C/G][G]Ancient of Days and worthy of our praise
+[C]You are the [Dsus]Ancient of Days and worthy of our praise
+{end_of_bridge}
+
+{comment: Outro / Tag}
+[G] [Am/G] [C/G] [G] [Am/G] [G] [C/G] [D/G] [G] [Am/G] [C/G] [G] [Am/G] [C/G] [Cadd2/G]
+{comment: (repeat)}
+
+{comment: Tag}
+[G]
