@@ -7,5 +7,44 @@
 {ccli: 7263749}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
+{start_of_verse: Verse 1}
+[C]Lord be my treasure for all my [C/F]days
+[C/E]Don’t wanna be one who falls a[C/F]way
+[C]Lord keep me rooted in Your word so [C/F]true
+[C/E]Don’t wanna be deceived in these last [C/F]days
 
-{start_of_verse}
+[C/G]Lord keep me tender for all my [F/A]days
+[C/G]Don’t wanna grow cold, don’t wanna have a hard [F/A]heart
+[C]Lord be my focus for all my [F/A]days
+[C/G]Don’t wanna be one who looks a[C/F]way
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
+[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
+[Cadd2]Sustain me, Lord, [C/F]I wanna love You to the end,
+[Cadd2]I wanna love You to the [C/F]end
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[C]Lord keep me burning for all my [C/F]days
+[C/E]Don’t wanna be cold, don’t wanna be found in the [C/F]middle
+
+[C/G]Lord be my first love for all my [F/A]days
+[C/G]Don’t wanna choose the lesser [C/F]things
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
+[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
+[Cadd2]Sustain me, Lord, [C/F]I wanna love You to the end,
+[Cadd2]I wanna love You to the [C/F]end
+{end_of_chorus}
+
+{start_of_bridge: Bridge}
+[C/G]One thing I ask of You Lord [F/A]
+[C/G]One thing alone do I [F/A]seek
+[C/G]To dwell in Your house, to dwell in Your [F/A]house
+[C/G]To gaze on Your beauty, to gaze on Your [F/A]beauty
+{comment: (repeat)}
+{end_of_bridge}
