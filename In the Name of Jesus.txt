@@ -8,31 +8,31 @@
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 
-{comment: Verse 1}
+{sop: Verse 1}
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]Christ [G]our [C]King  
 We speak [Fmaj7]hea[F6]ling, [C/G]hea[G7sus]ling 
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve  
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C] [F/A] [G/B]
-{end_of_verse}
+{eop}
 
-{comment: Verse 2}
+{sop: Verse 2}
 In the [C]name [G/B]of [F6/A]Je[C/G]sus, who [F]sets [G]us [C]free
 We speak [Fmaj7]whole[F6]ness, [C/G]whole[G7sus]ness
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]re[Am7]ceive  
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C]
-{end_of_verse}
+{eop}
 
-{comment: Chorus}
+{sop: Chorus}
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
 [Em7]Master, [F]Savior, [G]our Lord, come and [Csus]touch us as we [C]pray [C/G] [G]
-{end_of_chorus}
+{eop}
 
-{comment: Short Verse}
+{sop: Short Verse}
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve  
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C] [Csus] [C]
-{end_of_verse}
+{eop}
 
-{comment: Bridge}
+{sop: Bridge}
 [F]There is nothing too hard for our God
 [G]There is nothing too far from His hand  
 [Am7]There is no other man who can [C/E]do all the [F]things that He can[C/E]
@@ -49,16 +49,19 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve
 [G]Healed the lame, made the blind man to see 
 [Am7]And He’s here in our midst as our [C/E]healer and [F]merciful King 
 [Dm/G]Merciful [F/A]King, He's our [Dm/G]merciful [F]King [A7sus] [A7]
+{eop}
 
 {transpose: 2}
 
-{comment: Chorus}
+{sop: Chorus}
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
 [Em7]Master, [F]Savior, [G]our Lord, come and [Csus]touch us as we [C]pray [C/G] [G]
+{eop}
 
-{comment: Verse 3}
+{sop: Verse 3}
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]Christ [G]our [C]King  
 We speak [Fmaj7]hea[F6]ling, [C/G]hea[G7sus]ling 
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve  
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C/A]
 [F]Lord, let Your [C/G]Spirit [G7sus]be re[C]leased [Fmaj7] [Gsus] [C]
+{eop}
