@@ -31,26 +31,25 @@
 [C#7/F]The rock on which we [F#]stand [A#7]
 [D#m7]Praise His name for[G#7]ever [B] [F#]
 
-<b>{BRIDGE}</b>
+{comment: Bridge}
 [C#7]All of His ways [F#/C#]are [C#7]marked [F#/C#]with [C#7]grace 
 [G#m7]All of His promises are [C#7sus]true [D7sus]
 
-<b>{SOLO}</b>
+{comment: Solo}
 [B7] [Em7] [Em7] [A7] [C] [G] [B7] [Em7]
 [D7/F#] [G] [B7] [Em7] [A7] [C] [G]
 
-<b>{CHORUS (1ST TIME: DRUMS ONLY)}</b>
+{comment: Chorus}
 // [Em7]Praise His name for[A7]ever [C] [G]
 [Em7]Praise His name for[A7]ever [C] [G]
 [B7]Our fortress and our [Em7]shield
 [D7/F#]The rock on which we [G]stand [B7]
 [Em7]Praise His name for[A7]ever [C] [G] [D/F#] //
 
-<b>{VAMP}</b>
+{comment: Vamp}
 We [Em7]praise [A7]His [C]name [G]
 We [Em7]praise [A7]His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
-
-<i><b>{REPEAT VAMP UNTIL CUE}</b></i>
+{comment: Repeat Vamp Until Cue}
 
 His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
 His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more 
