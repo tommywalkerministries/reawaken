@@ -7,27 +7,30 @@
 {ccli: 7269261}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
-{comment: Verse 1}
+{sop: Verse 1}
 {start_of_verse}
 Take my [D]life [D/F#]and    [G]let [Bm7]it     [Asus]be 
 A living [D]sac-[D/F#]ri-  [G]fice [Bm7]to [A]Thee[A/G] 
 I sur-[D/F#]render [G]all Lord, to [F#7]Your great [Bm7]call[  Gadd2] 
-As my [D/A]worship [A]Lord, to [Dsus]Thee[D]  
+As my [D/A]worship [A]Lord, to [Dsus]Thee[D]
+{eop}
 
-{comment: Verse 2}
+{sop: Verse 2}
 Take my life that I might be
 One who gives and serves like Thee
 Through Your strength and grace, I will run this race  
 As my worship Lord, to Thee 
+{eop}
 
-{comment: Verse 3}
+{sop: Verse 3}
 Take my life that I may go 
 So that all the world may know 
 That Your precious blood makes the foulest clean 
 This is the good news I will bring 
 As my worship Lord, to Thee 
+{eop}
 
-{comment: Chorus}
+{sop: Chorus}
 This is my worship, the way I walk and live 
 This is my worship Lord, as I serve and give  
 This is my worship as I declare Your truth 
@@ -35,9 +38,11 @@ A living sacrifice to You
 A living sacrifice to You 
 A living sacrifice to You 
 To You 
+{eop}
 
-{comment: TAG}
+{sop: TAG}
 I sur-[D/F#]render [G]all Lord, to [F#7]Your great [Bm7]call[  Gadd2] 
 As my [D/A]worship [A]Lord, to [Dsus]Thee[D]  
 As my [D/A]worship [A]Lord, to [Dsus]Thee[D]  
 As my [D/A]worship [A]Lord, to [Dsus]Thee[D]   
+{eop}
