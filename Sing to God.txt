@@ -7,37 +7,42 @@
 {ccli: 7269266}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
-{comment: Verse 1}
+{sop: Verse 1}
 [G]Sing to [C/G]God oh kingdoms of the [G]earth [Am7] [G/B]
 [C]Sing praises [G/B]to His [Dsus][D]name
 [C]To Him who [G/B]rides the ancient skies
 [Am7]Who thunders with mighty [Dsus][D]voice
+{eop}
 
-{comment: Verse 2}
+{sop: Verse 2}
 [G]Sing to [C/G]God oh kingdoms of this [G]world [Am7] [G/B]
 [C]Sing praises [G/B]out to [Dsus][D]Him
 [C]His splendor, [G/B]strength and majesty
 [Am7][F/Bb][A7][D7sus][D7][C/E][D/F#]
 Are shining over us
+{eop}
 
-{comment: Chorus 1}
+{sop: Chorus 1}
 [Gm7]Oh, the wonder of our [C7]God [F] [Bb]
 [Eb]Let the nations sing His [A7]prai[Abmaj7]ses [A7][D7]
 [Gm7]He reigns in power from a[C7]bove [F] [Bb]
 [Eb]From the valleys let His [A7]prai[Abmaj7]ses [A7]rise
+{eop}
 
-{comment: Transition}
+{sop: Transition}
 [Bb6] [A7] [Abmaj7] [A7] [F/Bb] [A7] [D7sus] [D7]
 From the mountains lift His name up high
+{eop}
 
-{comment: Verse 3}
+{sop: Verse 3}
 [G]Sing to [C/G]God oh kingdoms of this [G]world [Am7] [G/B]
 [C]Sing praises [G/B]out to [Dsus][D]Him
 [C]Our daily burdens [G/B]He does bear
 [Am7][F/Bb][A7][D7sus][D7][C/E][D/F#]
 And makes a way for us
+{eop}
 
-{comment: Chorus 2}
+{sop: Chorus 2}
 [Gm7]Oh, the wonder of our [C7]God [F] [Bb]
 [Eb]Let the nations sing His [A7]prai[Abmaj7]ses [A7][D7]
 [Gm7]He reigns in power from a[C7]bove [F] [Bb]
@@ -47,19 +52,22 @@ And makes a way for us
 [Eb]Let the nations sing His [A7]prai[Abmaj7]ses [A7][D7]
 [Gm7]He reigns in power from a[C7]bove [F] [Bb]
 [Eb]From the valleys let His [A7]prai[Abmaj7]ses [A7]rise
+{eop}
 
-{comment: Instrumental}
+{sop: Instrumental}
 [Bb6] [A7] [Abmaj7] [A7]
 [Bb6] [A7] [Abmaj7] [A7]
+{eop}
 
-{comment: Bridge/Solo Lyrics}
+{sop: Bridge/Solo Lyrics}
 [Bb6]He is riding the ancient skies; [A7]He is reigning from His throne on high
 [Abmaj7][A7]
 [Bb6]Let the nations and every tribe, [A7]every kingdom,
 [Abmaj7][A7][D7sus][C/E][D/F#]
 Let His praises rise
+{eop}
 
-{comment: Chorus 3}
+{sop: Chorus 3}
 [Gm7]Oh, the wonder of our [C7]God [F] [Bb]
 [Eb]Let the nations sing His [A7]prai[Abmaj7]ses [A7][D7]
 [Gm7]He reigns in power from a[C7]bove [F] [Bb]
@@ -69,8 +77,9 @@ Let His praises rise
 [Eb]Let the nations sing His [A7]prai[Abmaj7]ses [A7][D7]
 [Gm7]He reigns in power from a[C7]bove [F] [Bb]
 [Eb]From the valleys let His [A7]prai[Abmaj7]ses [A7]rise
+{eop}
 
-{comment: Ending}
+{sop: Ending}
 [Bb6]From the mountains lift His name up high
 [Bb6]From the valleys let His praises rise
 [Bb6] [A7] [Abmaj7] [A7] [F/Bb] [A7]
@@ -83,3 +92,4 @@ Let His praises rise
 Are shining over
 [Bb6] [A7] [Abmaj7] [A7] [Abmaj7] – [G]
 Us
+{eop}
