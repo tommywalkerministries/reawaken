@@ -8,30 +8,30 @@
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 
-{start_of_verse}
+{sop: Verse 1}
 [F]Reawaken the [Bb/F]wonder of who [F]You are [Bb/F]
 [F]Reawaken that [Bb/F]sense of awe that reminds [Gm7]my [F]heart [C]
 [Cm7]That You’re the God who has [F7]formed the stars yet [Bb]hears me when I [Eb]call
 [F]Reawaken the [Bb/F]wonder of who You [F]are
-{end_of_verse}
+{eop}
 
-{start_of_chorus}
+{sop: Chorus}
 How [Bbadd2]great You [Bb6]are, how [A7]great You [Dm7]are
 A[Eb]bove and beyond what [Bb]any tongue can [Cm7]tell [F] [Gm7] [F/A]
 How [Bbadd2]power[Bb6]ful yet m[A7]erci[Dm7]ful
 Let e[Eb]very heart bow [Bb]down in fear and [F]awe [Bb/F]
-{end_of_chorus}
+{eop}
 
-{start_of_verse}
+{sop: Verse 2}
 [F]Reawaken the [Bb/F]wonder for [F]all You have done [Bb/F]
 [F]Help me stop and re[Bb/F]member, it’s from You [Gm7]my help[F] comes from [C]
 [Cm7]You’re the God who has [F7]healed, renewed and [Bb]saved me with Your [Eb]blood
 [F]Reawaken the [Bb/F]wonder for all You’ve [F]done
-{end_of_verse}
+{eop}
 
-{start_of_bridge}
+{sop: Bridge}
 [Eb]Holy and [Cm7]righteous Lord, are [Bb/F]all Your [F]ways
 We [Eb]stand amazed as the [Cm7]angels say you are [Bb/F]worthy
 [Eb]Holy and [Cm7]righteous Lord, are [Bb/F]all Your [F]ways
 We [Eb]stand amazed as the [Cm7]angels say you are [Bb/F]worthy, You are [F/C]worthy
-{end_of_bridge}
+{eop}
