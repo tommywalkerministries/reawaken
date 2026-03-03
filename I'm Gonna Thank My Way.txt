@@ -7,7 +7,7 @@
 {ccli: 7269270}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
-{comment: Verse}
+{sop: Verse}
 I’m gonna [Am7]thank my way back to Your joy
 I’m gonna [Em7]thank my way back to Your peace
 I’m gonna [Am7]meditate on all the ways
@@ -18,13 +18,16 @@ I’m gonna [Em7]thank my way back to Your hope
 I’m gonna [Am7]celebrate all the ways
 You’ve [Em7]been so good to [D]me
 [Am7]So [G/B]so [C]go-[A/C#]od to [Dsus]me [D]
+{eop}
 
-{comment: Chorus}
+{sop: Chorus}
 [G]Lord, I [C/G]give you [G]thanks, oh and [Em7]Lord I [C/E]give You [Em7]praise
 Whenever [G]I [C/G]look [G]back, oh I [Em7]see Your [C/E]love [Em7]and [C]grace
+{eop}
 
-{comment: Bridge}
+{sop: Bridge}
 [C]So good, You’ve been so [D]good to [Em7]me [D/F#] [G] [G/B] [C]
 [C]So good, Your faithfulness [D]I've [G]seen [D/F#] [G] [G/B] [C]
 [C]So good, You’ve been so [D]good to [Em7]me [D/F#] [G] [G/B] [C]
 So many blessings [D]I've [G]re-[G]cieved
+{eop}
