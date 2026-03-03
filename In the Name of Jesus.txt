@@ -50,7 +50,7 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve
 [Am7]And He’s here in our midst as our [C/E]healer and [F]merciful King 
 [Dm/G]Merciful [F/A]King, He's our [Dm/G]merciful [F]King [A7sus] [A7]
 
-{key: D}
+{transpose: 2}
 
 {comment: Chorus}
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
