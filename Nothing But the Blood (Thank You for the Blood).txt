@@ -30,7 +30,6 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus] [F] [F7/A] [Bb] [C7sus]
-{end_of_chorus}
 
 {comment: Verse 3}
 [F]Nothing [Gm7]can for [F/A]sin [Bbm6]atone
@@ -56,7 +55,6 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [Gm7]That [F/A]makes me [A6]white as [Dm7]snow [Dm7/C] [G/B] [Bbm6]
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je-sus [C7sus]
-{end_of_chorus}
 
 {comment: Interlude}
 [F] [F7/A] [Bb] [C7sus]
@@ -75,7 +73,6 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F7/A] [Bb] [C7sus]
 {comment: Repeat 2X then}
 [F] [F7/A] [Bb] [Bdim] [F/C] [C7sus]
-{end_of_chorus}
 
 {comment: Final Chorus (Slow)}
 [F/A]O! Precious [Dm7]is the flow
@@ -84,4 +81,3 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus] [F]sus [Bb]
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus] [F]sus [Bb]
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus] [F]sus
-{end_of_chorus}
