@@ -8,48 +8,57 @@
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 
-{comment: A}
+{sop: A}
 <b>{CHORUS}</b>
 [C#m7]Praise His name for[F#7]ever [A] [E]
 [C#m7]Praise His name for[F#7]ever [A] [E]
 [G#7]Our fortress and our [C#m7]shield
 [B7/D#]The rock on which we [E]stand [G#7]
 [C#m7]Praise His name for[F#7]ever [A] [E]
+{eop}
 
-{comment: B}
+{sop: B}
 <b>{CHORUS}</b>
 [Dm7]Praise His name for[G7]ever [Bb] [F]
 [Dm7]Praise His name for[G7]ever [Bb] [F]
 [A7]Our fortress and our [Dm7]shield
 [C7/E]The rock on which we [F]stand [A7]
 [Dm7]Praise His name for[G7]ever [Bb] [F]
+{eop}
 
-{comment: C}
+{sop: C}
 [D#m7]Praise His name for[G#7]ever [B] [F#]
 [D#m7]Praise His name for[G#7]ever [B] [F#]
 [A#7]Our fortress and our [D#m7]shield
 [C#7/F]The rock on which we [F#]stand [A#7]
 [D#m7]Praise His name for[G#7]ever [B] [F#]
+{eop}
 
-{comment: Bridge}
+{sop: Bridge}
 [C#7]All of His ways [F#/C#]are [C#7]marked [F#/C#]with [C#7]grace 
 [G#m7]All of His promises are [C#7sus]true [D7sus]
+{eop}
 
-{comment: Solo}
+{sop: Solo}
 [B7] [Em7] [Em7] [A7] [C] [G] [B7] [Em7]
 [D7/F#] [G] [B7] [Em7] [A7] [C] [G]
+{eop}
 
-{comment: Chorus}
+{sop: Chorus}
 // [Em7]Praise His name for[A7]ever [C] [G]
 [Em7]Praise His name for[A7]ever [C] [G]
 [B7]Our fortress and our [Em7]shield
 [D7/F#]The rock on which we [G]stand [B7]
 [Em7]Praise His name for[A7]ever [C] [G] [D/F#] //
+{eop}
 
-{comment: Vamp}
+{sop: Vamp}
 We [Em7]praise [A7]His [C]name [G]
 We [Em7]praise [A7]His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
 {comment: Repeat Vamp Until Cue}
+{eop}
 
+{sop: Ending}
 His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
 His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more 
+{eop}
