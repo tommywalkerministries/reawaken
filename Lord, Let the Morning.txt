@@ -66,6 +66,7 @@
 [Em7]Lord, I hide my[Bm7]self in [C]Thee
 {eop}
 
-{comment: Ending Verse}
+{sop: Ending Verse}
 [G]Lord, let the [G2]morning bring Your new mer[G]cies
 [C]Bring me the [Cmaj7]word of Your un[C6]failing love
+{eop}
