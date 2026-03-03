@@ -7,62 +7,71 @@
 {ccli: 7269805}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
-{comment: Intro}
+{sop: Intro}
 [F] [F7/A] [Bb] [C7sus]
 {comment: Repeat Intro}
+{eop}
 
-{comment: Verse 1}
+{sop: Verse 1}
 [F]What can [Gm7]wash a-[F/A]way my [Bbm6]sin
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F]What can [Gm7]make me [F/A]whole a-[Bbm6]gain
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
+{eop}
 
-{comment: Verse 2}
+{sop: Verse 2}
 [F]For my [Gm7]pardon [F/A]this I [Bbm6]see
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F]For my [Gm7]cleansing, [F/A]this my [Bbm6]plea
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus]
+{eop}
 
-{comment: Chorus 1}
+{sop: Chorus 1}
 [F/A]O! Precious is the flow
 That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus] [F] [F7/A] [Bb] [C7sus]
+{eop}
 
-{comment: Verse 3}
+{sop: Verse 3}
 [F]Nothing [Gm7]can for [F/A]sin [Bbm6]atone
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F]Naught of [Gm7]good that [F/A]I have [Bbm6]done
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
+{eop}
 
-{comment: Verse 4}
+{sop: Verse 4}
 [F]This is [Gm7]all my [F/A]hope and [Bbm6]peace
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F]This is [Gm7]all my [F/A]righteous-[Bbm6]ness
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
 [F] [F7/A] [Bb] [C7sus]
+{eop}
 
-{comment: Chorus 2}
+{sop: Chorus 2}
 [F/A]O! Precious is the flow
 That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus]sus
+{eop}
 
-{comment: Chorus 3}
+{sop: Chorus 3}
 [F/A]O! [C#dim]Precious [Dm7]is the [F#dim]flow
 [Gm7]That [F/A]makes me [A6]white as [Dm7]snow [Dm7/C] [G/B] [Bbm6]
 [F/A]No [A7aug]other [Dm7]fount I [Eb7#11]know
 [F/C]Nothing but the [D7]blood of [G7]Je-sus [C7sus]
+{eop}
 
-{comment: Interlude}
+{sop: Interlude}
 [F] [F7/A] [Bb] [C7sus]
 [F] [F7/A] [Bb] [C7sus]
 [F] [F7/A] [Bb] [C7sus]
 [F] [F7/A] [Bb] [C7sus]
+{eop}
 
-{comment: New Chorus}
+{sop: New Chorus}
 [F]Thank You for the blood that [C]cleanses [C/Bb]me
 [F/A]Thank You for the blood that [Bb]sets me free
 [F/C]Thank You for the [D7]blood, [G7]thank You for Your [C7sus]precious [F]blood [F7/A] [Bb] [C7sus]
@@ -73,11 +82,13 @@ That makes me white as [Dm7]snow [Dm7/C] [F/A] [Bbm6]
 [F7/A] [Bb] [C7sus]
 {comment: Repeat 2X then}
 [F] [F7/A] [Bb] [Bdim] [F/C] [C7sus]
+{eop}
 
-{comment: Final Chorus (Slow)}
+{sop: Final Chorus (Slow)}
 [F/A]O! Precious [Dm7]is the flow
 [Gm7]That [F/A]makes me [Bb6]white as [F/C]snow [C#dim]
 [Dm7]No [A/C#]other [F/C]fount I [G/B]know
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus] [F]sus [Bb]
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus] [F]sus [Bb]
 [F/C]Nothing but the [D7]blood of [G7]Je- - [C7sus] [F]sus
+{eop}
