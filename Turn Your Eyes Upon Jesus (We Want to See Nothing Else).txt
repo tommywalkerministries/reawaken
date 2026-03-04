@@ -7,38 +7,54 @@
 {ccli: 7269366}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
+{sop: Verse}
+[E]Turn your [B7]eyes upon [A]Je-E/G#]sus 
+Look [A]full in His [C#7aug]wonderful [F#m7]face [B7] 
+And the [Bm/D]things of [C#7]earth will grow str[F#m7]angely [Am/C]dim 
+In the [E/B]light of His [F#m7]glor[B7sus]y and  [E]grace [A] [B]  
 
-{comment: Verse}
-[E]Turn your [B7]eyes upon [A]Je-[E/G#]sus 
-Look [A]full in His [C#7aug]wonderful [F#m7]face    [B7] 
-And the [Bm/D]things of [C#7]earth will grow [F#m7]strangely [Am/C]dim 
-In the [E/B]light of His [F#m7]glor - [B7sus]y and  [E]grace[A]  [B]  
+[E]Turn your [B7]eyes upon [A]Je[E/G#]sus 
+Look [A]full in His [C#7aug]wonderful [F#m7]face [B7] 
+And the [Bm/D]things of [C#7]earth will grow str[F#m7]angely [Am/C]dim
+{eop}
 
-[E]Turn your [B7]eyes upon [A]Je-[E/G#]sus 
-Look [A]full in His [C#7aug]wonderful [F#m7]face    [B7] 
-And the [Bm/D]things of [C#7]earth will grow [F#m7]strangely [Am/C]dim  
-
-{comment: Tag}
+{sop: Tag}
 In the [E/B]light of His [A/C#]glory 
 [E/B]Light of His [Am6]beauty
-[E/B]Light of His [F#m7]glor- -[B7sus]y    and [E]grace[Esus] [E]  [E] 
+[E/B]Light of His [F#m7]glor[B7sus]y and [E]grace [E7] [Am/E] [E] 
+{eop}
 
-{comment: Vamp/Instrumental}
+{sop: Instrumental/Vamp}
 We want to see [Am9/C]nothing else but Your [G/B]glory, Lord
-We want to see [Am9/C]nothing else but your [G/B]face   [Em7] 
-And as we [Dsus]fix our [D]eyes[D#dim]    on Your [C/E]majest-[G/D]y and [C]grace[G/B]
-All dis-[Am9]tractions and [D7sus]fears fade a-[G]way
+We want to see [Am9/C]nothing else but your [G/B]face [Em7] 
+And as we [Dsus]fix our [D]eyes[D#dim] on Your [C/E]majest[G/D]y and [C]grace[G/B]
+All dis[Am9]tractions and [D7sus]fears fade a[G]way [Am7]
 
-{comment: Final Verse}
-[E]Turn your [B7]eyes upon [A]Je-[E/G#]sus 
-Look [A]full in His [C#7aug]wonderful [F#m7]face    [B7] 
+We [G/B]want to see [Am9/C]nothing else but Your [G/B]glory, Lord
+We want to see [Am9/C]nothing else but your [G/B]face [Em7] 
+And as we [Dsus]fix our [D]eyes[D#dim] on Your [C/E]majest[G/D]y and [C]grace[G/B]
+All dis[Am9]tractions and [D7sus]fears fade a[G]way, fade a[B7sus]way [B7]
+{eop}
+
+{sop: Verse}
+[E]Turn your [B7]eyes upon [A]Je[E/G#]sus 
+Look [A]full in His [C#7aug]wonderful [F#m7]face [B7] 
 And the [Bm/D]things of [C#7]earth will grow [F#m7]strangely [Am/C]dim 
+{eop}
 
-{comment: Tags}
+{sop: Tags}
 In the [E/B]light of His [A/C#]glory 
 [E/B]Light of His [Am6]beauty
-[E/B]Light of His [F#m7]glor- -[B7sus]y    and [E]grac[E7/G#]  [A]  [A#dim]  
-
-In the [E/B]light of His [A/C#]power 
+[E/B]Light of His [F#m7]glor[B7sus]y and [E]grace [E7/G#] [A] [A#dim]
+[E/B]Light of His [A/C#]power 
 [E/B]Light of His [Am6]mercy 
-[E/B]Light of His [F#m7]glor-[B7sus]y and [E]grace 
+[E/B]Light of His [F#m7]glor[B7sus]y and 
+{eop}
+
+{sop: Outro}
+[E]grace [E7] [A/E] [Am/E]
+{comment: Repeat till cue}
+[E]
+{eop}
+
+
