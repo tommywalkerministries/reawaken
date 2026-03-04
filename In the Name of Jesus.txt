@@ -51,7 +51,7 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve
 [Dm/G]Merciful [F/A]King, He's our [Dm/G]merciful [F]King [A7sus] [A7]
 {eop}
 
-{transpose: 2}
+{transpose: +2}
 
 {sop: Chorus}
 [Em7]Jesus, [F]Jesus, [G]Jesus, there is [Csus]power in Your [C]name  
@@ -63,5 +63,5 @@ In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]Christ [G]our [C]King
 We speak [Fmaj7]hea[F6]ling, [C/G]hea[G7sus]ling 
 In the [C]name [G/B]of [F6/A]Je[C/G]sus [F]we [G]be[Am7]lieve  
 [F]His healing [C/G]power [G7sus]we will [Csus]see [C/A]
-[F]Lord, let Your [C/G]Spirit [G7sus]be re[C]leased [Fmaj7] [Gsus] [C]
+[F]Lord, let Your [C/G]Spirit [G7sus]be re[C]leased [Fmaj7] [G7sus] [C]
 {eop}
