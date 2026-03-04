@@ -17,17 +17,58 @@ I’m gonna [Am7]thank my way back to Your truth
 I’m gonna [Em7]thank my way back to Your hope
 I’m gonna [Am7]celebrate all the ways
 You’ve [Em7]been so good to [D]me
-[Am7]So [G/B]so [C]go-[A/C#]od to [Dsus]me [D]
+[Am7]So [G/B]so [C]go[A/C#]od to [Dsus]me [D]
 {eop}
 
 {sop: Chorus}
-[G]Lord, I [C/G]give you [G]thanks, oh and [Em7]Lord I [C/E]give You [Em7]praise
-Whenever [G]I [C/G]look [G]back, oh I [Em7]see Your [C/E]love [Em7]and [C]grace
+[G]Lord, I [C/G]give [G]you [C]thanks, [C]oh - [D] [C/E] [D/F#]and [Em7]Lord I [C/E]give [Em7]You [C]praise
+When[G]ever [C/G]I [G]look [C]back, [C]oh - [D] [C/E] [D/F#]I [Em7]see Your [C/E]love [Em7]and [C]grace
+{eop}
+
+{sop: Vamp}
+[G/B][C]So good, [G/B]You’ve [C]been so [D]good to [Em7]me [D/F#] [G]
+[G/B][C]So good, [G/B]Your [C]faithful[D]ness [D]I've [G]seen
+{eop}
+
+{sop: Verse}
+I’m gonna [Am7]thank my way back to Your joy
+I’m gonna [Em7]thank my way back to Your peace
+I’m gonna [Am7]meditate on all the ways
+You’ve [Em7]been so good to [D]me
+
+I’m gonna [Am7]thank my way back to Your truth
+I’m gonna [Em7]thank my way back to Your hope
+I’m gonna [Am7]celebrate all the ways
+You’ve [Em7]been so good to [D]me
+[Am7]So [G/B]so [C]go[A/C#]od to [Dsus]me [D]
+{eop}
+
+{sop: Chorus}
+[G]Lord, I [C/G]give [G]you [C]thanks, [C]oh - [D] [C/E] [D/F#]and [Em7]Lord I [C/E]give [Em7]You [C]praise
+When[G]ever [C/G]I [G]look [C]back, [C]oh - [D] [C/E] [D/F#]I [Em7]see Your [C/E]love [Em7]and [C]grace
+{eop}
+
+{sop: Vamp}
+[G/B][C]So good, [G/B]You’ve [C]been so [D]good to [Em7]me [D/F#] [G]
+[G/B][C]So good, [G/B]Your [C]faithful[D]ness [D]I've [G]seen [D/F#] [Em7]
+[G/B][C]So good, [G/B]You’ve [C]been so [D]good to [Em7]me [D/F#] [G]
+[G/B][C]So ma[G/B]ny [C]blessings [D]I've [D]I've re[G]cieved
 {eop}
 
 {sop: Bridge}
-[C]So good, You’ve been so [D]good to [Em7]me [D/F#] [G] [G/B] [C]
-[C]So good, Your faithfulness [D]I've [G]seen [D/F#] [G] [G/B] [C]
-[C]So good, You’ve been so [D]good to [Em7]me [D/F#] [G] [G/B] [C]
-So many blessings [D]I've [G]re-[G]cieved
+I know Your [Am7]power surges through a [C]heart of gratitude
 {eop}
+
+{sop: Solo}
+[G] [C/G] [G] [C] [C] [D] [C/E] [D/F#] [Em7] [C/E] [Em7] [C]
+[G] [C/G] [G] [C] [C] [D] [C/E] [D/F#] [Em7] [C/E] [Em7] [C]
+{eop}
+
+{sop: Vamp}
+[G/B][C]So good, [G/B]You’ve [C]been so [D]good to [Em7]me [D/F#] [G]
+[G/B][C]So good, [G/B]Your [C]faithful[D]ness [D]I've [G]seen [D/F#] [Em7]
+[G/B][C]So good, [G/B]You’ve [C]been so [D]good to [Em7]me [D/F#] [G]
+[G/B][C]So ma[G/B]ny [C]blessings [D]I've [D]I've re[G]cieved
+{comment: Repeat}
+{eop}
+
