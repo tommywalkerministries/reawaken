@@ -1,6 +1,6 @@
 {title: My Heart Has Heard You Say}
 {artist: Tommy Walker}
-{key: D}
+{key: E}
 {tempo: 79}
 {time: 4/4}
 {capo: 0}
@@ -8,54 +8,59 @@
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 {sop: Verse}
-My [D]heart has [D2]heard You [D]say, I’m [Bm7]calling [Bm11]you [Bm7]away
-[Bm7]Come [D/F#]and [G]talk with me [G] [D/F#] [G]
-come and [A4]be [A]with [A]me [A4] [A] [A4]
+My [E]heart has [E2]heard You [E]say
+I’m [C#m7]calling [C#m11]you [C#m7]away
+[C#m7]Come [E/G#]and [A]talk with me [A] [E/G#] [A]
+Come and [B4]be [B]with [B]me [B4] [B] [B4]
 
-I’m [D]hearing [D2]with my [D]soul, like You [Bm7]spoke in [Bm11]days of [Bm7]old
-[Bm7]Steal [D/F#]a[G]way with me [G] [D/F#] [G]
-and then [A4]I [A]will [A]say [A4] [A] [A4]
+I’m [E]hearing [E2]with my [E]soul,
+Like You [C#m7]spoke in [C#m11]days of [C#m7]old
+[C#m7]Steal [E/G#]a[A]way with me [A] [E/G#] [A]
+And then [B4]I [B]will [B]say [B4] [B] [B4]
 {eop}
 
 {sop: Chorus}
-Lord, I’m [D4]co[D]ming, [D4]here I [D]am
-I’m re[Bm7]turning, here I stand
-Just to [G2]live in Your house and [A4]be where You are
-This is [G2]my one delight, my [A4]deepest desire
+Lord, I’m [Esus]co[E]ming, [Esus]here I [E]am
+I’m re[C#m7]turning, here I stand
+Just to [Aadd2]live in Your house and [Bsus]be where You are
+This is [Aadd2]my one delight, my [Bsus]deepest desire
 {eop}
 
 {sop: Tag}
-Here I [D]am, here I [G]am
+Here I [E]am, here I [Aadd2]am
 {eop}
 
 {sop: Verse}
-My [D]heart has [D2]heard You [D]say, I’m [Bm7]calling [Bm11]you [Bm7]away
-[Bm7]Come [D/F#]and [G]talk with me [G] [D/F#] [G]
-come and [A4]be [A]with [A]me [A4] [A] [A4]
+My [E]heart has [E2]heard You [E]say, I’m [C#m7]calling [C#m11]you [C#m7]away
+[C#m7]Come [E/G#]and [A]talk with me [A] [E/G#] [A]
+come and [B4]be [B]with [B]me [B4] [B] [B4]
 
-I’m [D]hearing [D2]with my [D]soul, like You [Bm7]spoke in [Bm11]days of [Bm7]old
-[Bm7]Steal [D/F#]a[G]way with me [G] [D/F#] [G]
-and then [A4]I [A]will [A]say [A4] [A] [A4]
+I’m [E]hearing [E2]with my [E]soul, like You [C#m7]spoke in [C#m11]days of [C#m7]old
+[C#m7]Steal [E/G#]a[A]way with me [A] [E/G#] [A]
+and then [B4]I [B]will [B]say [B4] [B] [B4]
 {eop}
 
 {sop: Chorus}
-Lord, I’m [D4]co[D]ming, [D4]here I [D]am
-I’m re[Bm7]turning, here I stand
-Just to [G2]live in Your house and [A4]be where You are
-This is [G2]my one delight, my [A4]deepest desire
-Here I [D]am, here I [G]am, Here I [D]am, here I [G]am
+Lord, I’m [Esus]co[E]ming, [Esus]here I [E]am
+I’m re[C#m7]turning, here I stand
+Just to [Aadd2]live in Your house and [Bsus]be where You are
+This is [Aadd2]my one delight, my [Bsus]deepest desire
 {eop}
 
 {sop: Tag}
-Here I [D]am, here I [G]am, Here I [D]am, here I [G]am
+Here I [E]am, here I [Aadd2]am, Here I [E]am, here I [Aadd2]am
 {eop}
 
 {sop: Bridge}
-Here in Your presence, [D]seeing Your beauty, [G]sensing Your nearness,
-[D]tasting Your goodness [G]
+[A]Here in Your presence, [E] [B/E] [A/E] 
+[B/E]Seeing Your beauty,[E/A] [Esus2/A] [Amaj9]
+[Esus2/A]Sensing Your nearness, [E] [B/E] [A/E] 
+[B/E]Tasting Your goodness [E/A] [Esus2/A] [Amaj9]
+{comment: Repeat x3}
+[Esus2/A]
 {eop}
 
 {sop: Outro}
-Here I [D]am, here I [G]am, Here I [D]am, here I [G]stand
-Here I [D]am
+Here I [E]am, here I [Aadd2]am, Here I [E]am, here I [Aadd2]stand
+Here I [E]am
 {eop}
