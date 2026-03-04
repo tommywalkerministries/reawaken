@@ -1,6 +1,6 @@
 {title: Turn Your Eyes Upon Jesus (We Want to See Nothing Else)}
 {artist: Tommy Walker}
-{key: F}
+{key: E}
 {tempo: 56}
 {time: 6/8}
 {capo: 0}
