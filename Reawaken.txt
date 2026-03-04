@@ -10,28 +10,46 @@
 
 {sop: Verse 1}
 [F]Reawaken the [Bb/F]wonder of who [F]You are [Bb/F]
-[F]Reawaken that [Bb/F]sense of awe that reminds [Gm7]my [F]heart [C]
+[F]Reawaken that [Bb/F]sense of awe that re[Gm7]minds [F]my [C]heart 
 [Cm7]That You’re the God who has [F7]formed the stars yet [Bb]hears me when I [Eb]call
-[F]Reawaken the [Bb/F]wonder of who You [F]are
+[F]Reawaken the [Bb/F]wonder of who You [F]are [Bb/F]
+Of who You [F]are -
 {eop}
 
 {sop: Chorus}
 How [Bbadd2]great You [Bb6]are, how [A7]great You [Dm7]are
 A[Eb]bove and beyond what [Bb]any tongue can [Cm7]tell [F] [Gm7] [F/A]
 How [Bbadd2]power[Bb6]ful yet m[A7]erci[Dm7]ful
-Let e[Eb]very heart bow [Bb]down in fear and [F]awe [Bb/F]
+Let e[Eb]very heart bow [Bb]down in fear and [F]awe [Bb/F] [F] [C4/F]
 {eop}
 
 {sop: Verse 2}
 [F]Reawaken the [Bb/F]wonder for [F]all You have done [Bb/F]
-[F]Help me stop and re[Bb/F]member, it’s from You [Gm7]my help[F] comes from [C]
-[Cm7]You’re the God who has [F7]healed, renewed and [Bb]saved me with Your [Eb]blood
-[F]Reawaken the [Bb/F]wonder for all You’ve [F]done
+[F]Help me stop and re[Bb/F]member, it’s from [Gm7]You my he[F]lp comes [C]from 
+[Cm7]That You’re the God who has [F7]healed, renewed and [Bb]saved me with Your [Eb]blood
+[F]Reawaken the [Bb/F]wonder for all [F]You’ve done
+{eop}
+
+{sop: Chorus}
+How [Bbadd2]great You [Bb6]are, how [A7]great You [Dm7]are
+A[Eb]bove and beyond what [Bb]any tongue can [Cm7]tell [F] [Gm7] [F/A]
+How [Bbadd2]power[Bb6]ful yet m[A7]erci[Dm7]ful
+Let e[Eb]very heart bow [Bb]down in fear and [F]awe [Bb/F] [F] [F]
 {eop}
 
 {sop: Bridge}
-[Eb]Holy and [Cm7]righteous Lord, are [Bb/F]all Your [F]ways
-We [Eb]stand amazed as the [Cm7]angels say you are [Bb/F]worthy
-[Eb]Holy and [Cm7]righteous Lord, are [Bb/F]all Your [F]ways
-We [Eb]stand amazed as the [Cm7]angels say you are [Bb/F]worthy, You are [F/C]worthy
+[Eb]Holy and [Cm]righteous Lord, are [Bb/F]all Your [F]ways
+We [Eb]stand amazed as the [Cm]angels say you are [Bb/F]wor[F]thy
+{comment: Repeat}
+{eop}
+
+{sop: Tag}
+You are [Csus]wor[C]thy, You are [Bb/D]wor[Dm7]thy, oh, so [Csus]wor[C]thy
+{eop}
+
+{sop: Chorus}
+How [Bbadd2]great You [Bb6]are, how [A7]great You [Dm7]are
+A[Eb]bove and beyond what [Bb]any tongue can [Cm7]tell [F] [Gm7] [F/A]
+How [Bbadd2]power[Bb6]ful yet m[A7]erci[Dm7]ful
+Let e[Eb]very heart bow [Bb]down in fear and [F]awe [Bb/F] [F] [F]
 {eop}
