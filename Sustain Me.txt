@@ -1,7 +1,7 @@
 {title: Sustain Me}
 {artist: Tommy Walker & Eileen Ballew}
-{key: }
-{tempo: }
+{key: C}
+{tempo: 69}
 {time: 4/4}
 {capo: 0}
 {ccli: 7263749}
@@ -9,48 +9,45 @@
 
 {sop: Verse 1}
 [C]Lord be my treasure for all my [C/F]days
-[C/E]Don’t wanna be one who falls a[C/F]way
-[C]Lord keep me rooted in Your word so [C/F]true
-[C/E]Don’t wanna be deceived in these last [C/F]days
+Don’t [C/E]wanna be one who falls a[C/F]way
+[C]Lord keep me rooted in Your [C/F]word so true
+Don’t [C/E]wanna be deceived in these last [C/F]days
 
-[C/G]Lord keep me tender for all my [F/A]days
-[C/G]Don’t wanna grow cold, don’t wanna have a hard [F/A]heart
-[C]Lord be my focus for all my [F/A]days
-[C/G]Don’t wanna be one who looks a[C/F]way
+[C/G]Lord keep me tender for [F/A]all my days
+Don’t [C/G]wanna grow cold, don’t wanna have a hard [F/A]heart
+[C]Lord be my focus for [F/A]all my days
+Don’t [C/G]wanna be one who looks a[C/F]way
 {eop}
 
 {sop: Chorus}
-[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
-[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
-[Cadd2]Sustain me, Lord, [C/F]I wanna love You to the end,
-[Cadd2]I wanna love You to the [C/F]end
+Sustain[Cadd2] me, Lord[C/F], sustain[Cadd2] me, Lord[C/F]
+Sustain[Cadd2] me, Lord[C/F], I wanna love You to the end[Cadd2],
+I wanna love You to the [C/F]end
 {eop}
 
 {sop: Verse 2}
-[C]Lord keep me burning for all my [C/F]days
-[C/E]Don’t wanna be cold, don’t wanna be found in the [C/F]middle
-[C/G]Lord be my first love for all my [F/A]days
-[C/G]Don’t wanna choose the lesser [C/F]things
+[C]Lord keep me burning for [C/F]all my days
+Don’t [C/E]wanna be cold, don’t wanna be found in the [C/F]middle
+[C/G]Lord be my first love for [F/A]all my days
+Don’t [C/G]wanna choose the lesser [C/F]things
 {eop}
 
 {sop: Chorus}
-[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
-[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
-[Cadd2]Sustain me, Lord, [C/F]I wanna love You to the end,
-[Cadd2]I wanna love You to the [C/F]end
+Sustain[Cadd2] me, Lord[C/F], sustain[Cadd2] me, Lord[C/F]
+Sustain[Cadd2] me, Lord[C/F], I wanna love You to the end[Cadd2],
+I wanna love You to the [C/F]end
 {eop}
 
 {sop: Bridge}
-[C/G]One thing I ask of You Lord [F/A]
+[C/G]One thing I ask of You [F/A]Lord 
 [C/G]One thing alone do I [F/A]seek
-[C/G]To dwell in Your house, to dwell in Your [F/A]house
-[C/G]To gaze on Your beauty, to gaze on Your [F/A]beauty
-{comment: (repeat)}
+To dwell in Your [C/G]house, to dwell in Your [F/A]house
+To gaze on Your bea[C/G]uty, to gaze on Your bea[F/A]uty
+{comment: Repeat}
 {eop}
 
 {sop: Chorus}
-[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
-[Cadd2]Sustain me, Lord, [C/F]sustain me, Lord
-[Cadd2]Sustain me, Lord, [C/F]I wanna love You to the end,
-[Cadd2]I wanna love You to the [C/F]end
+Sustain[Cadd2] me, Lord[C/F], sustain[Cadd2] me, Lord[C/F]
+Sustain[Cadd2] me, Lord[C/F], I wanna love You to the end[Cadd2],
+I wanna love You to the [C/F]end
 {eop}
