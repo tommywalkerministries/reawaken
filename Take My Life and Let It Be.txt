@@ -9,10 +9,10 @@
 
 {sop: Verse 1}
 {start_of_verse}
-Take my [D]life [D/F#]and    [G]let [Bm7]it     [Asus]be 
-A living [D]sac-[D/F#]ri-  [G]fice [Bm7]to [A]Thee[A/G] 
-I sur-[D/F#]render [G]all Lord, to [F#7]Your great [Bm7]call[  Gadd2] 
-As my [D/A]worship [A]Lord, to [Dsus]Thee[D]
+Take my [C]life [C/E]and [F]let [Am7]it [G]be [Gsus] 
+A living [C]sac[C/E]ri[F]fice [Am7]to [G]Thee[G/F] 
+I sur[C/E]render [F]all Lord, to [E7]Your great [Am7]call [Fadd2] 
+As my [C/G]worship [G]Lord, to [Csus]Thee[C]
 {eop}
 
 {sop: Verse 2}
@@ -22,22 +22,39 @@ Through Your strength and grace, I will run this race
 As my worship Lord, to Thee 
 {eop}
 
+{transpose: +2}
+
 {sop: Verse 3}
-Take my life that I may go 
-So that all the world may know 
-That Your precious blood makes the foulest clean 
-This is the good news I will bring 
-As my worship Lord, to Thee 
+Take my [C]life [C/E]that [F]I [Am7]may [G]go [Gsus] 
+So that [C]all[C/E]the[F]world [Am7]may [G]know[G/F] 
+That Your [C/E]precious [F]blood makes the[E7]foulest [Am7]clean [Fadd2] 
+This is the [C/G]good news [G]I will [Csus]bring[C] [Faad2]
+As my [C/G]worship [G]Lord, to [C]Thee [Csus] [C] [Csus]  
 {eop}
 
 {sop: Chorus}
-This is my worship, the way I walk and live 
-This is my worship Lord, as I serve and give  
-This is my worship as I declare Your truth 
-A living sacrifice to You 
-A living sacrifice to You 
-A living sacrifice to You 
-To You 
+This is my [C/E]worship, [F2]the way I wa[G7sus]lk and live 
+This is my [C/E]worship [F2]Lord, as I ser[G7sus]ve and give  
+This is my [C/E]worship [F2]as I de[G7sus]clare Your truth 
+A living sa[C/E]cri[F2]fice to [G7sus]You [A7sus]
+{eop}
+
+{transpose: +2}
+
+{sop: Guitar Solo}
+[C/E] [F2] [G7sus] •  [C/E] [F2] [G7sus]
+[C/E] [F2] [G7sus] •  [C/E] [F2] [G7sus]  [A7sus]
+{eop}
+
+{transpose: +2}
+
+{sop: Chorus}
+This is my [C/E]worship, [F2]the way I wa[G7sus]lk and live 
+This is my [C/E]worship [F2]Lord, as I ser[G7sus]ve and give  
+This is my [C/E]worship [F2]as I de[G7sus]clare Your truth 
+A living sa[C/E]cri[F2]fice to [G7sus]You 
+{comment: Repeat}
+[A7sus]
 {eop}
 
 {sop: TAG}
