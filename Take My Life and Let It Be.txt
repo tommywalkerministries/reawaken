@@ -8,7 +8,6 @@
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 {sop: Verse 1}
-{start_of_verse}
 Take my [C]life [C/E]and [F]let [Am7]it [G]be [Gsus] 
 A living [C]sac[C/E]ri[F]fice [Am7]to [G]Thee[G/F] 
 I sur[C/E]render [F]all Lord, to [E7]Your great [Am7]call [Fadd2] 
@@ -16,10 +15,10 @@ As my [C/G]worship [G]Lord, to [Csus]Thee[C]
 {eop}
 
 {sop: Verse 2}
-Take my life that I might be
-One who gives and serves like Thee
-Through Your strength and grace, I will run this race  
-As my worship Lord, to Thee 
+Take my [C]life [C/E]that [F]I [Am7]might [G]be [Gsus] 
+One who [C]gives [C/E]and [F]serves [Am7]like [G]Thee[G/F] 
+Through Your [C/E]strength and [F]grace, I will [E7]run this [Am7]race [Fadd2] 
+As my [C/G]worship [G]Lord, to [Csus]Thee[C]
 {eop}
 
 {transpose: +2}
@@ -54,12 +53,18 @@ This is my [C/E]worship [F2]Lord, as I ser[G7sus]ve and give
 This is my [C/E]worship [F2]as I de[G7sus]clare Your truth 
 A living sa[C/E]cri[F2]fice to [G7sus]You 
 {comment: Repeat}
-[A7sus]
 {eop}
 
-{sop: TAG}
-I sur-[D/F#]render [G]all Lord, to [F#7]Your great [Bm7]call[  Gadd2] 
-As my [D/A]worship [A]Lord, to [Dsus]Thee[D]  
-As my [D/A]worship [A]Lord, to [Dsus]Thee[D]  
-As my [D/A]worship [A]Lord, to [Dsus]Thee[D]   
+{sop: Tag}
+A living sa[C/E]cri[F2]fice to [G7sus]You
+A living sa[C/E]cri[F2]fice to [G7sus]You 
+{eop}
+
+{sop: Down Verse}
+[C] [C/E] [F] [Am7] [G] [Gsus]  
+[C] [C/E] [F] [Am7] [G] [G/F]
+I sur[C/E]render [F]all Lord, to [E7]Your great [Am7]call [Fadd2] 
+As my [C/G]worship [Abdim]Lord, to [Am7]Thee [F2]  
+As my [C/G]worship [Abdim]Lord, to [Am7]Thee [F2]  
+As my [C/G]worship [G7sus]Lord, to [C]Thee 
 {eop}
