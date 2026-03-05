@@ -44,7 +44,7 @@
 {transpose: +1}
 
 {sop: Solo}
-[G#7] [C#m7] [C#m7] [F#7] [A] [E] [G#7] [C#m7]
+[C#m7] [C#m7] [F#7] [A] [E] [G#7] [C#m7]
 [B7/D#] [E] [G#7] [C#m7] [F#7] [A] [E]
 {eop}
 
