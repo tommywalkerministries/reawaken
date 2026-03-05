@@ -8,8 +8,7 @@
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
 
-{sop: A}
-<b>{CHORUS}</b>
+{sop: Chorus}
 [C#m7]Praise His name for[F#7]ever [A] [E]
 [C#m7]Praise His name for[F#7]ever [A] [E]
 [G#7]Our fortress and our [C#m7]shield
@@ -17,48 +16,55 @@
 [C#m7]Praise His name for[F#7]ever [A] [E]
 {eop}
 
-{sop: B}
-<b>{CHORUS}</b>
-[Dm7]Praise His name for[G7]ever [Bb] [F]
-[Dm7]Praise His name for[G7]ever [Bb] [F]
-[A7]Our fortress and our [Dm7]shield
-[C7/E]The rock on which we [F]stand [A7]
-[Dm7]Praise His name for[G7]ever [Bb] [F]
+{transpose: +1}
+
+{sop: Chorus}
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[G#7]Our fortress and our [C#m7]shield
+[B7/D#]The rock on which we [E]stand [G#7]
+[C#m7]Praise His name for[F#7]ever [A] [E]
 {eop}
 
-{sop: C}
-[D#m7]Praise His name for[G#7]ever [B] [F#]
-[D#m7]Praise His name for[G#7]ever [B] [F#]
-[A#7]Our fortress and our [D#m7]shield
-[C#7/F]The rock on which we [F#]stand [A#7]
-[D#m7]Praise His name for[G#7]ever [B] [F#]
+{transpose: +1}
+
+{sop: Chorus}
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[G#7]Our fortress and our [C#m7]shield
+[B7/D#]The rock on which we [E]stand [G#7]
+[C#m7]Praise His name for[F#7]ever [A] [E]
 {eop}
 
 {sop: Bridge}
-[C#7]All of His ways [F#/C#]are [C#7]marked [F#/C#]with [C#7]grace 
-[G#m7]All of His promises are [C#7sus]true [D7sus]
+[B7]All of His ways [E/B]are [B7]marked [E/B]with [B7]grace  
+[F#m7]All of His promises are [B7sus]true [C7sus]
 {eop}
 
+{transpose: +1}
+
 {sop: Solo}
-[B7] [Em7] [Em7] [A7] [C] [G] [B7] [Em7]
-[D7/F#] [G] [B7] [Em7] [A7] [C] [G]
+[G#7] [C#m7] [C#m7] [F#7] [A] [E] [G#7] [C#m7]
+[B7/D#] [E] [G#7] [C#m7] [F#7] [A] [E]
 {eop}
 
 {sop: Chorus}
-// [Em7]Praise His name for[A7]ever [C] [G]
-[Em7]Praise His name for[A7]ever [C] [G]
-[B7]Our fortress and our [Em7]shield
-[D7/F#]The rock on which we [G]stand [B7]
-[Em7]Praise His name for[A7]ever [C] [G] [D/F#] //
+// [C#m7]Praise His name for[F#7]ever [A] [E]
+[C#m7]Praise His name for[F#7]ever [A] [E]
+[G#7]Our fortress and our [C#m7]shield
+[B7/D#]The rock on which we [E]stand [G#7]
+[C#m7]Praise His name for[F#7]ever [A] [E] [B/D#] //
 {eop}
 
 {sop: Vamp}
-We [Em7]praise [A7]His [C]name [G]
-We [Em7]praise [A7]His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
+We [C#m7]praise [F#7]His [A]name [E]
+We [C#m7]praise [F#7]His [A]name [E/G#]for - [F#m7]e- [B/D#]ver - [E]more 
+[D#m7(b5)] [G#7] [D7(b5)]
 {comment: Repeat Vamp Until Cue}
 {eop}
 
 {sop: Ending}
-His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more [F#m7(b5)] [B7] [F7(b5)]
-His [C]name [G/B]for - [Am7]e- [D/F#]ver - [G]more 
+His [A]name [E/G#]for - [F#m7]e- [B/D#]ver - [E]more 
+[D#m7(b5)] [G#7] [D7(b5)]
+His [A]name [E/G#]for - [F#m7]e- [B/D#]ver - [E]more
 {eop}
