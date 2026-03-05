@@ -61,8 +61,7 @@
 
 {sop: Vamp}
 We [C#m7]praise [F#7]His [A]name [E]
-We [C#m7]praise [F#7]His [A]name [E/G#]for - [F#m7]e- [B/D#]ver - [E]more 
-[D#m7(b5)] [G#7] [D7(b5)]
+We [C#m7]praise [F#7]His [A]name [E/G#]for - [F#m7]e- [B/D#]ver - [E]more [D#m7(b5)] [G#7] [D7(b5)]
 {comment: Repeat Vamp Until Cue}
 {eop}
 
