@@ -44,16 +44,19 @@
 {transpose: +1}
 
 {sop: Solo}
-[C#m7] [C#m7] [F#7] [A] [E] [G#7] [C#m7]
-[B7/D#] [E] [G#7] [C#m7] [F#7] [A] [E]
+[C#m7] [F#7] [A] [E]
+[C#m7] [F#7] [A] [E]
+[G#7] [C#m7] [B7/D#] [E] [G#7]
+[C#m7] [F#7] [A] [E]
 {eop}
 
 {sop: Chorus}
-// [C#m7]Praise His name for[F#7]ever [A] [E]
+[C#m7]Praise His name for[F#7]ever [A] [E]
 [C#m7]Praise His name for[F#7]ever [A] [E]
 [G#7]Our fortress and our [C#m7]shield
 [B7/D#]The rock on which we [E]stand [G#7]
-[C#m7]Praise His name for[F#7]ever [A] [E] [B/D#] //
+[C#m7]Praise His name for[F#7]ever [A] [E] [B/D#]
+{comment: Repeat}
 {eop}
 
 {sop: Vamp}
