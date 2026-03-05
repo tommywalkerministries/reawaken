@@ -7,39 +7,39 @@
 {ccli: 7269260}
 {copyright: © 2025 WeMobile Music. Admin. Music Services. All rights reserved. https://www.tommywalkerministries.org/}
 
-{comment: Chorus}
+{sop: Chorus}
 [B7]Oh, [C#m7]oh, [E7]o [E7/G#] [A] [F#m7]we [E/B]stand in [B]awe of [E7]You [E7/G#] [A]  
 [Am/C]We [E/B]stand and [B]worship [E]You [E] [B/D#] [C#m7] [F#/A#]
 
 [B7]Oh, [C#m7]oh, [E7]o [E7/G#] [A] [F#m7]we [E/B]stand in [B]awe of [E7]You [E7/G#] [A]  
 [Am/C]We [E/B]stand and [B]worship [E]You [Esus] [E] [A] [B]
+{eop}
 
-{comment: Bridge}
+{sop: Bridge}
 [E]We give our praise [B] [B/A] give our thanks [E/G#] [E7] give our hearts [A] in [B]worship  
 [E]Lift our eyes [B] [B/A] to Your throne [E/G#] [E7] You alone [A] des[B]erve it  
 
 [E]We give our praise [B] [B/A] give our thanks [E/G#] [E7] give our hearts [A] in [B]worship  
 [E]Lift our eyes [B] [B/A] to Your throne [E/G#] [E7] You alone [A] des[B]erve it, [E] Lord [B] [B/A] [E/G#] [E7]  
-
 [A]You de-[B]serve it, [E] Lord [B] [B/A] [E/G#] [E7] [A] [B]  
+{eop}
 
-{comment: Bridge (Continues)}
+{sop: Bridge (Continues)}
 [E]We give our praise [B] [B/A] give our thanks [E/G#] [E7] give our hearts [A] in [B]worship  
 [E]Lift our eyes [B] [B/A] to Your throne [E/G#] [E7] You alone [A] des[B]erve it  
 
 [E]We give our praise [B] [B/A] give our thanks [E/G#] [E7] give our hearts [A] in [B]worship  
 [E]Lift our eyes [B] [B/A] to Your throne [E/G#] [E7] You alone [A] des[B]erve it, [E] Lord [B] [B/A] [E/G#] [E7]  
-
 [A]You de-[B]serve it, [E] Lord [B] [B/A] [E/G#] [E7] [A]  
 [A]You de-[B]serve it, [E] Lord [B] [B/A] [E/G#] [E7] [A]  
-
 [A]You de-[B]serve it, [E] Lord [B] [B/A] [E/G#] [E7] [A]  
 [A]You de-[B]serve it, [E] Lord [B] [B/A] [E/G#] [E7] [A] [B]
+{eop}
 
-{comment: Chorus}
+{sop: Chorus}
 [B7]Oh, [C#m7]oh, [E7]o [E7/G#] [A] [F#m7]we [E/B]stand in [B]awe of [E7]You [E7/G#] [A]  
 [Am/C]We [E/B]stand and [B]worship [E]You [E] [B/D#] [C#m7] [F#/A#]
 
 [B7]Oh, [C#m7]oh, [E7]o [E7/G#] [A] [F#m7]we [E/B]stand in [B]awe of [E7]You [E7/G#] [A]  
-[Am/C]We [E/B]stand and [B]worship [E]You [A] [B] [E]
-{end_of_chorus}
+[Am/C]We [E/B]stand and [B]worship [E]You 
+{eop}
